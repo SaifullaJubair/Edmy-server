@@ -1,0 +1,304 @@
+[
+   {
+     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "01",
+     "rating": { "number": 4.4,"review":2923, "badge": "Excellent" },
+     "price": 88,
+     "course_time":180,
+     "video":480,
+     "quiz":120,
+     "exam":14,
+     "enrolled":34735,
+     "title": "Become a Certified HTML, CSS, JavaScript Web Developer",
+     "instructor": {
+       "name": "Mark Lassoff",
+       "published_date": "2021-08-24 17:27:34",
+       "img": "https://img-c.udemycdn.com/user/200_H/22632534_6ae1.jpg"
+     },
+     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+     "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+     "details": "Complete coverage of HTML, CSS, Javascript while you Earn Four Respected Certifications",
+     "course_overview": "Prepare for Industry Certification Exam, Earn Certification that, is Proof of your Competence, Hours and Hours of Video Instruction, Dozens of Code Examples to Download and Study"
+   },
+   {
+     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "01",
+     "rating": { "number": 4.7,"review":231714, "badge": "Excellent" },
+     "price": 98,
+     "course_time":180,
+     "videos":480,
+     "quiz":120,
+     "exam":14,
+     "enrolled":783888,
+     "title": "The Complete 2022 Web Development Bootcamp",
+     "instructor": {
+       "name": "Dr. Angela Yu",
+       "published_date": "2022-08-24 17:27:34",
+       "img": "https://img-c.udemycdn.com/user/200_H/31334738_a13c_3.jpg"
+     },
+     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+     "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+     "details": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+     "course_overview": "You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.You will learn the latest technologies, including Javascript, React, Node and even Web3 development.You will master both front and back-end development, becoming a full-stack developer by the end of the course.After the course you will be able to build ANY website you want."
+   },
+   {
+     "_id": "f69a695f037cd9484cecaea37ca71011",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "02",
+     "rating": { "number": 4.6,"review":53714, "badge": "Excellent" },
+     "price": 105,
+     "course_time":46,
+     "videos":305,
+     "quiz":90,
+     "exam":10,
+     "enrolled":283888,
+     "title": "Beginning C++ Programming - From Beginner to Beyond",
+     "instructor": {
+       "name": "Dr. Frank Mitropoulos",
+       "published_date": "2022-01-24 17:27:34",
+       "img": "https://img-c.udemycdn.com/user/200_H/33518230_62f0_6.jpg"
+     },
+     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+     "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+     "details": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below.",
+     "course_overview": "Learn to program with one of the most powerful programming languages that exists today, C++. Obtain the key concepts of programming that will also apply to other programming languages. Learn Modern C++ rather than an obsolete version of C++ that most other courses teach.Learn C++ features from basic to more advanced such as inheritance and polymorphic functions"
+   },
+   {
+     "_id": "f69a695f037cd9484cecaea37ca71012",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "02",
+     "rating": { "number": 4.7,"review":131714, "badge": "Excellent" },
+     "price": 98,
+     "course_time":60,
+     "videos":480,
+     "quiz":120,
+     "exam":14,
+     "enrolled":683888,
+     "title": "The Complete Python Pro Bootcamp for 2022",
+     "instructor": {
+       "name": "Dr. Angela Yu",
+       "published_date": "2022-08-24 17:27:34",
+       "img": "https://img-c.udemycdn.com/user/200_H/31334738_a13c_3.jpg"
+     },
+     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+     "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+     "details": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+     "course_overview": "You will master the Python programming language by building 100 unique projects over 100 days.You will learn automation, game, app and web development, data science and machine learning all using Python.You will be able to program in Python professionally.You will learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib."
+   },
+  
+   {
+     "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "03",
+     "rating": { "number": 4.8,"review":79614, "badge": "Excellent" },
+     "price": 90,
+     "course_time":60,
+     "videos":350,
+     "quiz":90,
+     "exam":7,
+     "enrolled":309888,
+     "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+     "instructor": {
+       "name": "Dr. Angela Yu",
+       "published_date": "2022-01-24 17:27:34",
+       "img": "https://img-c.udemycdn.com/user/200_H/31334738_a13c_3.jpg"
+     },
+     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+     "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+     "details": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
+     "course_overview": "You will create a portfolio of 15 apps to be able apply for junior developer jobs at a technology company.You will learn Xcode, UIKit and SwiftUI, ARKit, CoreML and CoreData.You will learn by doing, where every lesson is incorporated into a real-world app project.After the course, you will be able to build any app you want."
+   },
+   {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5,"review":2114, "badge": "Excellent" },
+    "price": 98,
+    "course_time":35,
+    "videos":153,
+    "quiz":25,
+    "exam":4,
+    "enrolled":53888,
+    "title": "Complete iOS Bootcamp - Swift & Objective-C",
+    "instructor": {
+      "name": "Amir J",
+      "published_date": "2022-04-24 17:27:34",
+      "img": "https://img-c.udemycdn.com/user/200_H/13858914_3e4c_8.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "details": "Beginner to Advanced iPhone / iPad App Development with Swift, Objective-C and Xcode.",
+    "course_overview": "Make real-life iOS Applications using advanced and relevant technology.Be prepared to take on any iOS development challenges on your own.Create various iOS applications with advanced User Interfaces graphics, and animations as well as proper backend and data persistency.Be prepared for iOS jobs and technical interview questions."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6h",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "04",
+    "rating": { "number": 4.7,"review":331714, "badge": "Excellent" },
+    "price": 98,
+    "course_time":180,
+    "videos":340,
+    "quiz":70,
+    "exam":14,
+    "enrolled":483888,
+    "title": "Adobe Premiere Pro CC Masterclass: Video Editing in Premiere",
+    "instructor": {
+      "name": "Phil Ebiner",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://img-c.udemycdn.com/user/200_H/317821_3cb5_10.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "details": "Learn Beginner-Advanced Adobe Premiere Pro Video Editing, Audio Editing, Color Grading, Motion Graphics, Green Screen+",
+    "course_overview": "Master Premiere Pro and be CONFIDENT Editing Your Own Videos.Edit an entire video from beginning to end, using professional and efficient techniques.Start a project with the right settings for any type of video, from any camera."
+  },
+   {
+     "_id": "0282e0e58a5c404fbd15261f11c2ab6i",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "04",
+     "rating": { "number": 4.5,"review":714, "badge": "Excellent" },
+     "price": 45,
+     "course_time":60,
+     "videos":120,
+     "quiz":20,
+     "exam":5,
+     "enrolled":3888,
+     "title": "Video Editing Masterclass: Edit Your Videos Like a Pro!",
+     "instructor": {
+       "name": "Julian Melanson",
+       "published_date": "2022-08-24 17:27:34",
+       "img": "https://img-c.udemycdn.com/user/200_H/25772334_47ac_13.jpg"
+     },
+     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+     "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+     "details": "The Beginner's Step-by-Step Guide to Edit Incredible Looking & Sounding Videos with Any Equipment or Software",
+     "course_overview": "Step-by-step process to take your video footage, organize, edit, and export an incredible looking video!You will learn the latest technologies, including Javascript, React, Node and even Web3 development.You will master both front and back-end development, Choose the absolute best audio and video filters that fit your personal video style!"
+   },
+   
+   {
+     "_id": "0282e0e58a5c404fbd15261f11c2ab6j",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "05",
+     "rating": { "number": 4.5,"review":2314, "badge": "Excellent" },
+     "price": 25,
+     "course_time":10,
+     "videos":40,
+     "quiz":10,
+     "exam":2,
+     "enrolled":12888,
+     "title": "Excel Deep Dive: Pivot Tables Workshop",
+     "instructor": {
+       "name": "Alex Mozes",
+       "published_date": "2022-08-24 17:27:34",
+       "img": "https://img-c.udemycdn.com/user/200_H/190805982_7f68.jpg"
+     },
+     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+     "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+     "details": "Excel data mastery is possible! Learn how to use pivot tables in excel and learn how to use pivot tables to get a raise",
+     "course_overview": "Master Excel Pivot Tables .Learn to Harness these skills to get a raise. Solve World Hunger"
+   },
+   {
+     "_id": "0282e0e58a5c404fbd15261f11c2ab6k",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "05",
+     "rating": { "number": 4.4,"review":2714, "badge": "Excellent" },
+     "price": 15,
+     "course_time":18,
+     "videos":30,
+     "quiz":10,
+     "exam":1,
+     "enrolled":2088,
+     "title": "MS Office - Advanced - Efficiency Training",
+     "instructor": {
+       "name": "Kerron Duncan",
+       "published_date": "2022-08-24 17:27:34",
+       "img": "https://img-c.udemycdn.com/user/200_H/96812314_f435_3.jpg"
+     },
+     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+     "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+     "details": "Learn the most important shortcuts and time saving tools in Outlook, Excel, Word and PowerPoint. WIN at Office!",
+     "course_overview": "You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.You will learn the latest technologies, including Javascript, React, Node and even Web3 development.You will master both front and back-end development, becoming a full-stack developer by the end of the course.After the course you will be able to build ANY website you want."
+   },
+   {
+     "_id": "0282e0e58a5c404fbd15261f11c2aa5a",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "06",
+     "rating": { "number": 4.8,"review":2315, "badge": "Excellent" },
+     "price": 15,
+     "course_time":45,
+     "videos":70,
+     "quiz":12,
+     "exam":4,
+     "enrolled":7888,
+     "title": "English Speaking Complete: English Language Mastery",
+     "instructor": {
+       "name": "David Morris",
+       "published_date": "2021-08-24 17:27:34",
+       "img": "https://img-c.udemycdn.com/user/200_H/20054722_6c06_2.jpg"
+     },
+     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+     "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+     "details": "Supercharge your English speaking fluency and improve your vocabulary, grammar and English language skills.",
+     "course_overview": "Learn beginner to advanced English Speaking skills. Understand and use English grammar. Master English vocabulary and native phrases. Build confidence in English Language"
+   },
+   {
+     "_id": "0282e0e58a5c404fbd15261f11c2aa5t",
+     "others_info": {
+       "is_todays_pick": false,
+       "is_trending": true
+     },
+     "category_id": "06",
+     "rating": { "number": 4.7,"review":34714, "badge": "Excellent" },
+     "price": 45,
+     "course_time":90,
+     "videos":180,
+     "quiz":30,
+     "exam":10,
+     "enrolled":183888,
+     "title": "IELTS Band 7+ Complete Prep Course",
+     "instructor": {
+       "name": "Keino Campbell",
+       "published_date": "2022-08-24 17:27:34",
+       "img": "https://img-c.udemycdn.com/user/200_H/403134_2c7a_5.jpg"
+     },
+     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+     "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+     "details": "UPDATED SEPTEMBER 2022 - IELTS Preparation- Speaking, Listening, Reading and Writing (Academic AND General)",
+     "course_overview": "Achieve learning outcomes for Band 7+ in every section. Academic and General Exam Strategies and Tactics. Over 11,000 Confirmed 5-Star Reviews (*****). Computer Based Exam Strategies and Tactics"
+   }
+]
