@@ -13,7 +13,7 @@
      "quiz":120,
      "exam":14,
      "enrolled":34735,
-     "title": "Become a Certified HTML, CSS, JavaScript Web Developer",
+     "title": "Become a Frontend  Developer",
      "instructor": {
        "name": "Mark Lassoff",
        "published_date": "2021-08-24 17:27:34",
@@ -22,7 +22,7 @@
      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
      "details": "Complete coverage of HTML, CSS, Javascript while you Earn Four Respected Certifications",
-     "course_overview": "Prepare for Industry Certification Exam, Earn Certification that, is Proof of your Competence, Hours and Hours of Video Instruction, Dozens of Code Examples to Download and Study"
+     "course_overview": "Prepare for Industry Certification Exam. Earn Certification that. is Proof of your Competence. Hours and Hours of Video Instruction. Dozens of Code Examples to Download and Study"
    },
    {
      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
@@ -38,7 +38,7 @@
      "quiz":120,
      "exam":14,
      "enrolled":783888,
-     "title": "The Complete 2022 Web Development Bootcamp",
+     "title": "The Complete Web Development",
      "instructor": {
        "name": "Dr. Angela Yu",
        "published_date": "2022-08-24 17:27:34",
@@ -63,7 +63,7 @@
      "quiz":90,
      "exam":10,
      "enrolled":283888,
-     "title": "Beginning C++ Programming - From Beginner to Beyond",
+     "title": "C++ Beginner to Beyond",
      "instructor": {
        "name": "Dr. Frank Mitropoulos",
        "published_date": "2022-01-24 17:27:34",
@@ -88,7 +88,7 @@
      "quiz":120,
      "exam":14,
      "enrolled":683888,
-     "title": "The Complete Python Pro Bootcamp for 2022",
+     "title": "Python Pro Bootcamp",
      "instructor": {
        "name": "Dr. Angela Yu",
        "published_date": "2022-08-24 17:27:34",
@@ -114,7 +114,7 @@
      "quiz":90,
      "exam":7,
      "enrolled":309888,
-     "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+     "title": "iOS & Swift-Development",
      "instructor": {
        "name": "Dr. Angela Yu",
        "published_date": "2022-01-24 17:27:34",
@@ -139,7 +139,7 @@
     "quiz":25,
     "exam":4,
     "enrolled":53888,
-    "title": "Complete iOS Bootcamp - Swift & Objective-C",
+    "title": "Complete Swift & Objective-C",
     "instructor": {
       "name": "Amir J",
       "published_date": "2022-04-24 17:27:34",
@@ -164,10 +164,10 @@
     "quiz":70,
     "exam":14,
     "enrolled":483888,
-    "title": "Adobe Premiere Pro CC Masterclass: Video Editing in Premiere",
+    "title": "Premiere Pro NooB to Pro",
     "instructor": {
       "name": "Phil Ebiner",
-      "published_date": "2022-08-24 17:27:34",
+      "published_date": "2022-05-24 17:27:34",
       "img": "https://img-c.udemycdn.com/user/200_H/317821_3cb5_10.jpg"
     },
     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
@@ -189,7 +189,7 @@
      "quiz":20,
      "exam":5,
      "enrolled":3888,
-     "title": "Video Editing Masterclass: Edit Your Videos Like a Pro!",
+     "title": "Video Editing Masterclass",
      "instructor": {
        "name": "Julian Melanson",
        "published_date": "2022-08-24 17:27:34",
@@ -215,7 +215,7 @@
      "quiz":10,
      "exam":2,
      "enrolled":12888,
-     "title": "Excel Deep Dive: Pivot Tables Workshop",
+     "title": "Excel Deep Dive",
      "instructor": {
        "name": "Alex Mozes",
        "published_date": "2022-08-24 17:27:34",
@@ -240,7 +240,7 @@
      "quiz":10,
      "exam":1,
      "enrolled":2088,
-     "title": "MS Office - Advanced - Efficiency Training",
+     "title": "MS Office- Advanced",
      "instructor": {
        "name": "Kerron Duncan",
        "published_date": "2022-08-24 17:27:34",
@@ -265,7 +265,7 @@
      "quiz":12,
      "exam":4,
      "enrolled":7888,
-     "title": "English Speaking Complete: English Language Mastery",
+     "title": "English Language Mastery",
      "instructor": {
        "name": "David Morris",
        "published_date": "2021-08-24 17:27:34",
@@ -290,7 +290,7 @@
      "quiz":30,
      "exam":10,
      "enrolled":183888,
-     "title": "IELTS Band 7+ Complete Prep Course",
+     "title": "IELTS 7+ Complete Prep Course",
      "instructor": {
        "name": "Keino Campbell",
        "published_date": "2022-08-24 17:27:34",

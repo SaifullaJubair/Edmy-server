@@ -28,6 +28,9 @@ app.get('/category/:id', (req, res) => {
       res.send(categoryCourse)
    }
 })
+app.get('/course', (req, res) => {
+   res.send(course);
+})
 
 app.get('/course/:id', (req, res) => {
    const id = req.params.id;
